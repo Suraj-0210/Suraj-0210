@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://github.com/YourUsername/YourUsername/blob/main/icons/activity.gifs
+https://github.com/Suraj-0210/Suraj-0210/blob/main/icons/activity.gifs
 
 <!--
 **Suraj-0210/Suraj-0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
