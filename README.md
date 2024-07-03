@@ -10,8 +10,7 @@
 </div>
 
 
-## I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **MERN, Android Development, and Chatbot Development** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
-
+## I am a dedicated Java Programmer with extensive experience in Spring and Spring Boot, complemented by proficiency in React for creating dynamic and responsive user interfaces. I am also well-versed in Machine Learning, having developed several result-driven projects that demonstrate my ability to apply data-driven techniques to solve complex problems. My expertise lies in building scalable backend solutions, seamless frontend integration, and leveraging machine learning to deliver impactful results. I am passionate about continuous learning and thrive on tackling challenging problems with innovative solutions.
 <!--
 **Suraj-0210/Suraj-0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
